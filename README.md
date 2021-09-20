@@ -1,6 +1,7 @@
 Hello,
-This is techcoder001, the developer of the following code on behalf of R.Vijaya.Chandran.
-Get the code under the "code" file
+This is techcoder001, the developer of the following code and my real name is Aayush Barnwal, studying in Delhi Public School, Durgapur. Class 10.
+Get the code under the "code" file and images used are in the link as follows.
+https://drive.google.com/drive/folders/1cZ4gF9EYSUBcWYUnUnvQQxEqoy1uBTNg?usp=sharing
 Thankyou!
 
 
